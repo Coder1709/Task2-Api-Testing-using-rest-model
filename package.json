@@ -1,0 +1,11 @@
+{
+  "name": "api2testing",
+  "version": "1.0.0",
+  "description": "A api testing for the 2nd task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpit Pathak",
+  "license": "ISC"
+}
